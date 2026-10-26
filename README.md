@@ -1,19 +1,35 @@
-# Landing page di Giovanni Testa
+# Giovanni Testa ⚡
 
-Pagina statica senza dipendenze o fase di compilazione. HTML/CSS, font di sistema, SVG locale. Nessun modulo o analytics aggiunto. Stile ispirato alla home pubblica di Energy Shift: bianco, blu #0A5BD3, titoli sans serif in grassetto.
+**Connecting dots and people across energy, markets and strategy.**
 
-## Pubblicazione gratuita su GitHub Pages
+I believe the energy transition is as much about understanding the signals as it is about connecting the people who can turn them into action.
 
-1. Crea un repository pubblico dedicato, ad esempio `profilo`. Con GitHub Free anche i file sorgente saranno pubblici.
-2. Carica nella radice `index.html`, `en.html`, `icon.svg`, `pexton-cover.png` e `.nojekyll`. Puoi aggiungere questo README. Il selettore IT / EN collega le due pagine statiche, senza cookie o JavaScript; `en.html` è il link diretto alla versione inglese.
-3. Apri **Settings → Pages → Build and deployment**.
-4. Seleziona **Deploy from a branch**, poi il branch `main` e la cartella `/ (root)`, quindi **Save**.
-5. Attendi la pubblicazione: il link comparirà nella stessa pagina. Il formato sarà `https://TUO-USERNAME.github.io/profilo/`.
+This is my little corner of the internet: a place to share what I focus on, what I'm curious about, and where a good conversation might begin.
 
-Per avere `https://TUO-USERNAME.github.io/`, usa invece come nome del repository `TUO-USERNAME.github.io`, se non esiste già.
+**[🌐 Visit my website](https://gio-moliva.github.io/profile/)** · **[English version](https://gio-moliva.github.io/profile/en.html)** · **[LinkedIn](https://www.linkedin.com/in/giovanni-testa-smart-grid-scada-ems-storage-ders/)** · **[Energy Shift](https://energyshift.it/)**
 
-Non caricare l'intero vault, la cartella `.git` del progetto Sites, `.openai`, archivi di distribuzione o credenziali. Questo pacchetto contiene solo i file della pagina. Non serve un dominio a pagamento.
+## What connects the dots?
 
-GitHub può registrare informazioni tecniche dei visitatori secondo la propria informativa. Il sito non integra un sistema di tracciamento proprio.
+- **Renewables** — market developments, regulation and emerging business models.
+- **Energy storage** — flexibility, value creation and the changing power system.
+- **Markets & strategy** — making sense of data, trends and their implications for decisions.
 
-Documentazione: https://docs.github.com/en/pages/quickstart e https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+I'm also a **Co-Founder of [Energy Shift](https://energyshift.it/)**, where curiosity about the energy world becomes analysis and conversation.
+
+## About this website
+
+Built deliberately simple: **HTML + CSS**, two languages, hosted on **GitHub Pages**. No frameworks, build steps, cookies or analytics added to the site.
+
+| File | Purpose |
+| --- | --- |
+| `index.html` | Italian landing page |
+| `en.html` | English landing page |
+| `icon.svg` | Website icon |
+| `pexton-cover.png` | Pexton, the Energy Shift mascot |
+| `.nojekyll` | Keeps GitHub Pages from running Jekyll processing |
+
+To publish or update it, push these files to the `main` branch. In **Settings → Pages**, select **Deploy from a branch → main → / (root)**.
+
+---
+
+*The best insights often start by connecting the dots. The best opportunities start by connecting people.*
