@@ -18,14 +18,17 @@ I'm also a **Co-Founder of [Energy Shift](https://energyshift.it/)**, where curi
 
 ## About this website
 
-Built deliberately simple: **HTML + CSS**, two languages, hosted on **GitHub Pages**. No frameworks, build steps, cookies or analytics added to the site.
+Built deliberately simple: **HTML + CSS** (plus one line of JavaScript to protect the email address from spam bots), two languages, hosted on **GitHub Pages**. No frameworks, build steps, cookies or analytics added to the site.
 
 | File | Purpose |
 | --- | --- |
 | `index.html` | Italian landing page |
 | `en.html` | English landing page |
+| `style.css` | Shared stylesheet (light and dark theme) |
+| `img/giovanni-testa.*` | Portrait (WebP + JPG fallback) |
+| `img/pexton.*` | Pexton, the Energy Shift mascot, cut out on a transparent background |
+| `img/og-image*.png` | Social preview images (IT / EN) |
 | `icon.svg` | Website icon |
-| `pexton-cover.png` | Pexton, the Energy Shift mascot |
 | `.nojekyll` | Keeps GitHub Pages from running Jekyll processing |
 
 To publish or update it, push these files to the `main` branch. In **Settings → Pages**, select **Deploy from a branch → main → / (root)**.
