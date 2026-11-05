@@ -27,7 +27,7 @@ Built deliberately simple: **HTML + CSS** (plus one line of JavaScript to protec
 | `style.css` | Shared stylesheet (light and dark theme) |
 | `img/giovanni-testa.*` | Portrait (WebP + JPG fallback) |
 | `img/pexton.*` | Pexton, the Energy Shift mascot, cut out on a transparent background |
-| `img/og-image*.png` | Social preview images (IT / EN) |
+| `img/social-*.jpg` | Social preview images (IT / EN) |
 | `icon.svg` | Website icon |
 | `.nojekyll` | Keeps GitHub Pages from running Jekyll processing |
 
